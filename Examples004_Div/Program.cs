@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿double nunberA = new Random().Next(1,10);
+double nunberB = new Random().Next(1,10);
+Console.WriteLine(nunberA / nunberB);
